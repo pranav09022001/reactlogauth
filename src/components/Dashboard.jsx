@@ -46,7 +46,7 @@ const Dashboard = () => {
   return (
     <div className='cont'>
         <div className='leftd'>
-            <img src={img} alt="cityimg"/>
+            <img src={img} alt=""/>
         </div>
         <div className='rightd'>
       
