@@ -1,0 +1,16 @@
+.register{
+    width:400px;
+    padding: 20px;
+    height:480px;
+}
+.register h1{
+    text-align: center;
+}
+.register button{
+    margin-left: 150px;
+}
+.reg{
+    display: flex;
+    justify-content: center;
+    
+}

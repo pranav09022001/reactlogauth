@@ -1,0 +1,19 @@
+.Edit{
+    width:400px;
+    padding: 20px;
+    height:410px;
+    padding: 20px;
+    
+}
+.Edit h1{
+    text-align: center;
+    margin:10px;
+}
+.Edit button{
+    margin-left: 130px;
+    width:100px;
+}
+.Edit label{
+    margin-bottom: 5px;
+    margin-top: 15px;
+ }

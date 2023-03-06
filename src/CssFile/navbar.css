@@ -1,0 +1,15 @@
+.navb{
+background-color: antiquewhite;
+height:70px !important;
+}
+#dd{
+    margin-right: 50px;
+    
+}
+.navb a{
+text-decoration: none;
+color:black;
+}
+.navb a:hover{
+    color: black;
+}

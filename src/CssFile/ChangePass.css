@@ -1,0 +1,19 @@
+.mainchange{
+    display: flex;
+    justify-content: center;
+}
+.change{
+    width:400px;
+    padding: 30px;
+}
+ .change h1{
+    margin-bottom:20px;
+    text-align: center;
+ }
+ .change button{
+    margin-left: 130px;
+ }
+ .change label{
+    margin-bottom: 5px;
+    margin-top: 15px;
+ }
