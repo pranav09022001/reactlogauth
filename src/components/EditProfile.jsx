@@ -18,6 +18,7 @@ const EditProfile = () => {
     }
     localStorage.setItem(user.email, newcity);
     navigate("/");
+    return toast.info("Password Change successfully");
   }
   return (
     <div>

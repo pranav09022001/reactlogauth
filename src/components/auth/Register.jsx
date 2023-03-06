@@ -16,20 +16,19 @@ export default function Register() {
 
   const handleSignup = async () => {
     try {
-      if(password.length<7){
-        return toast.error("pass should be greater than 7");
-      }
-      else{
+      if(fname!="" && lname!="" && city!="" && email!="" && password!="" ){
         localStorage.setItem(email, city);
         await createUserWithEmailAndPassword(auth, email, password);
         updateProfile(auth.currentUser, { displayName: fname +" "+ lname});
-        
+      }else{
+        return toast.error("All fields are mandatory to fill");
+      }
+
         signOut(auth);
         navigate("/signin");
 
 
-        console.log( auth);
-      }
+      
     } catch (error) {
       toast(error.code, { type: "error" });
     }
@@ -44,7 +43,6 @@ export default function Register() {
           type="text"
           className="form-control"
           placeholder="Enter your name"
-          required
           onChange={(e) => {
             setfName(e.target.value);
           }}
@@ -56,7 +54,6 @@ export default function Register() {
           type="text"
           className="form-control"
           placeholder="Enter your name"
-          required
           onChange={(e) => {
             setlName(e.target.value);
           }}
@@ -64,7 +61,7 @@ export default function Register() {
       </div>
       <div className="form-group">
         <label>City</label>
-        <Form.Select aria-label="Default select example" required onChange={(e) => {
+        <Form.Select aria-label="Default select example" onChange={(e) => {
             setCity(e.target.value);
           }}>
       <option>Select City</option>
@@ -85,7 +82,6 @@ export default function Register() {
           type="email"
           className="form-control"
           placeholder="Enter your email"
-          required
           onChange={(e) => {
             setEmail(e.target.value);
           }}
@@ -98,7 +94,6 @@ export default function Register() {
           type="password"
           className="form-control"
           placeholder="Password"
-          required
           onChange={(e) => {
             setPassword(e.target.value);
           }}

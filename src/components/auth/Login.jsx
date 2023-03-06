@@ -13,12 +13,13 @@ export default function Login() {
 
   
     try {
+      if(email!="" && password!=""){
       await signInWithEmailAndPassword(auth, email, password);
-      
-      
+      }
+      else{
+        return toast.error("All fields are mandatory to fill");
+      }
       navigate("/");
-      
-      console.log("login" + auth);
     } catch (error) {
       toast(error.code, { type: "error" });
     }

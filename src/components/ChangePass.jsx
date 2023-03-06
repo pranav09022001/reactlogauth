@@ -21,7 +21,10 @@ const ChangePass = () => {
         try {
             await signInWithEmailAndPassword(auth, user.email, cPassword);
             updatePassword(user, nPassword).then(() => {
-                navigate("/");
+              navigate("/");
+                return toast.info("Password Change successfully");
+
+                
             }).catch((error) => {
                 toast(error.code, { type: "error" });
             });
