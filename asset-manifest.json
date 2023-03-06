@@ -1,28 +1,28 @@
 {
   "files": {
     "main.css": "/reactlogauth/static/css/main.5289df20.css",
-    "main.js": "/reactlogauth/static/js/main.c713affc.js",
+    "main.js": "/reactlogauth/static/js/main.6e7cc676.js",
     "static/js/787.5c89b2bc.chunk.js": "/reactlogauth/static/js/787.5c89b2bc.chunk.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/reactlogauth/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/fontawesome-webfont.eot": "/reactlogauth/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
     "static/media/fontawesome-webfont.ttf?v=4.7.0": "/reactlogauth/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
     "static/media/Dadar.jpg": "/reactlogauth/static/media/Dadar.9bb31dbaf7eeb4d3a478.jpg",
     "static/media/fontawesome-webfont.woff?v=4.7.0": "/reactlogauth/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/NaviMumbai.jpg": "/reactlogauth/static/media/NaviMumbai.e791794ee2766a108f3a.jpg",
+    "static/media/Mumbai.jpg": "/reactlogauth/static/media/Mumbai.8e8d4fc078dcadabb936.jpg",
+    "static/media/Thane.jpg": "/reactlogauth/static/media/Thane.d476f92327824dff919c.jpg",
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/reactlogauth/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "static/media/Dombivli.jpg": "/reactlogauth/static/media/Dombivli.09b1581991e4fa2f275c.jpg",
-    "static/media/NaviMumbai.jpg": "/reactlogauth/static/media/NaviMumbai.19b7d61e8e225b377610.jpg",
-    "static/media/Mumbai.jpg": "/reactlogauth/static/media/Mumbai.6e77d3138d644cb03f8d.jpg",
-    "static/media/Thane.jpg": "/reactlogauth/static/media/Thane.660e18acaafcd0147f6a.jpg",
-    "static/media/Pune.jpg": "/reactlogauth/static/media/Pune.4a1fb503142a72b778a4.jpg",
+    "static/media/Pune.jpg": "/reactlogauth/static/media/Pune.8dfa2a753cfbd59cb976.jpg",
     "static/media/Kalyan.jpg": "/reactlogauth/static/media/Kalyan.f795b24738420aae0e29.jpg",
     "static/media/logo.png": "/reactlogauth/static/media/logo.f4cf379d01aab4ebdf59.png",
     "index.html": "/reactlogauth/index.html",
     "main.5289df20.css.map": "/reactlogauth/static/css/main.5289df20.css.map",
-    "main.c713affc.js.map": "/reactlogauth/static/js/main.c713affc.js.map",
+    "main.6e7cc676.js.map": "/reactlogauth/static/js/main.6e7cc676.js.map",
     "787.5c89b2bc.chunk.js.map": "/reactlogauth/static/js/787.5c89b2bc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5289df20.css",
-    "static/js/main.c713affc.js"
+    "static/js/main.6e7cc676.js"
   ]
 }
