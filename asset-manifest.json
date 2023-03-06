@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/reactlogauth/static/css/main.6c03e355.css",
-    "main.js": "/reactlogauth/static/js/main.060645e2.js",
+    "main.css": "/reactlogauth/static/css/main.5289df20.css",
+    "main.js": "/reactlogauth/static/js/main.f27f9930.js",
     "static/js/787.5c89b2bc.chunk.js": "/reactlogauth/static/js/787.5c89b2bc.chunk.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/reactlogauth/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/fontawesome-webfont.eot": "/reactlogauth/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
@@ -17,12 +17,12 @@
     "static/media/Kalyan.jpg": "/reactlogauth/static/media/Kalyan.f795b24738420aae0e29.jpg",
     "static/media/logo.png": "/reactlogauth/static/media/logo.f4cf379d01aab4ebdf59.png",
     "index.html": "/reactlogauth/index.html",
-    "main.6c03e355.css.map": "/reactlogauth/static/css/main.6c03e355.css.map",
-    "main.060645e2.js.map": "/reactlogauth/static/js/main.060645e2.js.map",
+    "main.5289df20.css.map": "/reactlogauth/static/css/main.5289df20.css.map",
+    "main.f27f9930.js.map": "/reactlogauth/static/js/main.f27f9930.js.map",
     "787.5c89b2bc.chunk.js.map": "/reactlogauth/static/js/787.5c89b2bc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6c03e355.css",
-    "static/js/main.060645e2.js"
+    "static/css/main.5289df20.css",
+    "static/js/main.f27f9930.js"
   ]
 }
