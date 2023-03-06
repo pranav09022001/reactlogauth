@@ -12,8 +12,7 @@ import logo from "../img/logo.png";
 export default function Navbar() 
 {
   const [user] = useAuthState(auth);
-    console.log("navbar")
-    console.log(user)
+    
   return (
     <div className=" border" style={{ backgroundColor: "#9900ff" }}>
       <nav className="navbar navb" >

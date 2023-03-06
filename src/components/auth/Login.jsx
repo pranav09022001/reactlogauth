@@ -14,8 +14,7 @@ export default function Login() {
   
     try {
       await signInWithEmailAndPassword(auth, email, password);
-      console.log("login...");
-      console.log( auth);
+      
       
       navigate("/");
       

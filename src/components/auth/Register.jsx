@@ -23,8 +23,7 @@ export default function Register() {
         localStorage.setItem(email, city);
         await createUserWithEmailAndPassword(auth, email, password);
         updateProfile(auth.currentUser, { displayName: fname +" "+ lname});
-        console.log("register");
-        console.log( auth);
+        
         signOut(auth);
         navigate("/signin");
 
