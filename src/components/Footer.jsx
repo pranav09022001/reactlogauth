@@ -7,7 +7,7 @@ import { Link } from 'react-router-dom';
 const Footer = () => {
   return (<footer>
     <div className='fl'>
-        <h1>My Cute Office</h1>
+        <h1>My Office</h1>
         <p>@all rights are reserved..</p>
     </div>
     <div className='fr'>

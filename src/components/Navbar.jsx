@@ -23,7 +23,7 @@ export default function Navbar()
             height={30}
             alt="logo"
             className="ms-5"
-          /><span style={{fontSize:"20px",marginLeft:"20px",}}>MY CUTE OFFICE</span></Link>
+          /><span style={{fontSize:"20px",marginLeft:"20px",}}>MY OFFICE</span></Link>
         </div>
         <Link className="nav-link" to="/">
           { }
