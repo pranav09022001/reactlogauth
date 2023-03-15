@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/reactlogauth/static/css/main.7ccc6875.css",
-    "main.js": "/reactlogauth/static/js/main.a68a5d4e.js",
+    "main.js": "/reactlogauth/static/js/main.7bf8a251.js",
     "static/js/787.5c89b2bc.chunk.js": "/reactlogauth/static/js/787.5c89b2bc.chunk.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/reactlogauth/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/fontawesome-webfont.eot": "/reactlogauth/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
@@ -18,11 +18,11 @@
     "static/media/logo.png": "/reactlogauth/static/media/logo.f4cf379d01aab4ebdf59.png",
     "index.html": "/reactlogauth/index.html",
     "main.7ccc6875.css.map": "/reactlogauth/static/css/main.7ccc6875.css.map",
-    "main.a68a5d4e.js.map": "/reactlogauth/static/js/main.a68a5d4e.js.map",
+    "main.7bf8a251.js.map": "/reactlogauth/static/js/main.7bf8a251.js.map",
     "787.5c89b2bc.chunk.js.map": "/reactlogauth/static/js/787.5c89b2bc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7ccc6875.css",
-    "static/js/main.a68a5d4e.js"
+    "static/js/main.7bf8a251.js"
   ]
 }
